@@ -1,0 +1,32 @@
+.hometop h1 {
+  padding-left:70px;
+}
+.hometop td {
+  vertical-align:middle;
+}
+.hometop img {
+	border:0;
+	margin-right:10px;
+  vertical-align:middle;
+}
+.hometop ul {
+  /* margin:0;*/
+	padding-left:50px;
+}
+.hometop li {
+	list-style-type:none;
+  margin-bottom:3px;
+	margin-top:3px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+table.footnote {
+  margin-bottom: 10px;
+}
+table.footnote td.label {
+  width: 12%;
+}
+table.footnote td.label + td {
+  text-align: left;
+  width: 88%;
+}
