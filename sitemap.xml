@@ -5,42 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://nathanfarrington.com/</loc>
-<lastmod>2017-07-12T10:37:16-00:00</lastmod>
+<lastmod>2017-07-17T06:16:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://nathanfarrington.com/archives.html</loc>
-<lastmod>2017-07-12T10:37:16-00:00</lastmod>
+<lastmod>2017-07-17T06:16:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://nathanfarrington.com/tags.html</loc>
-<lastmod>2017-07-12T10:37:16-00:00</lastmod>
+<lastmod>2017-07-17T06:16:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://nathanfarrington.com/categories.html</loc>
-<lastmod>2017-07-12T10:37:16-00:00</lastmod>
+<lastmod>2017-07-17T06:16:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://nathanfarrington.com/papers.html</loc>
-<lastmod>2017-07-12T10:37:16-00:00</lastmod>
+<lastmod>2017-07-17T06:16:01-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://nathanfarrington.com/patents.html</loc>
-<lastmod>2017-07-12T10:37:16-00:00</lastmod>
+<lastmod>2017-07-17T06:16:01-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://nathanfarrington.com/articles/bitcoin-2008.html</loc>
+<lastmod>2017-07-17T06:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
